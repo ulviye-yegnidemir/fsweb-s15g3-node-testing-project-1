@@ -1,0 +1,228 @@
+{
+  "results": {
+    "tool": {
+      "name": "jest"
+    },
+    "summary": {
+      "tests": 19,
+      "passed": 19,
+      "failed": 0,
+      "pending": 0,
+      "skipped": 0,
+      "other": 0,
+      "start": 1790180002542,
+      "stop": 1790180003622
+    },
+    "tests": [
+      {
+        "name": "[Görev 1] nesneyiTrimle [1] propları trimlenmiş bir nesne döndürüyor",
+        "duration": 7,
+        "status": "passed",
+        "rawStatus": "passed",
+        "type": "unit",
+        "filePath": "C:\\Users\\engin\\Desktop\\UnRar\\fsweb-s15g3-node-testing-project-1\\index.test.js",
+        "retries": 0,
+        "flaky": false,
+        "suite": "C:\\Users\\engin\\Desktop\\UnRar\\fsweb-s15g3-node-testing-project-1\\index.test.js > [Görev 1] nesneyiTrimle"
+      },
+      {
+        "name": "[Görev 2] verileniTrimle [3] verilen propu trimliyor",
+        "duration": 1,
+        "status": "passed",
+        "rawStatus": "passed",
+        "type": "unit",
+        "filePath": "C:\\Users\\engin\\Desktop\\UnRar\\fsweb-s15g3-node-testing-project-1\\index.test.js",
+        "retries": 0,
+        "flaky": false,
+        "suite": "C:\\Users\\engin\\Desktop\\UnRar\\fsweb-s15g3-node-testing-project-1\\index.test.js > [Görev 2] verileniTrimle"
+      },
+      {
+        "name": "[Görev 2] verileniTrimle [4] verilen dışındaki proplar trimlenmeden döndürülüyor",
+        "duration": 0,
+        "status": "passed",
+        "rawStatus": "passed",
+        "type": "unit",
+        "filePath": "C:\\Users\\engin\\Desktop\\UnRar\\fsweb-s15g3-node-testing-project-1\\index.test.js",
+        "retries": 0,
+        "flaky": false,
+        "suite": "C:\\Users\\engin\\Desktop\\UnRar\\fsweb-s15g3-node-testing-project-1\\index.test.js > [Görev 2] verileniTrimle"
+      },
+      {
+        "name": "[Görev 3] enBuyukTamsayiyiBul [5] bir dizi nesne içindeki en büyük tamsayiyi döndürüyor",
+        "duration": 0,
+        "status": "passed",
+        "rawStatus": "passed",
+        "type": "unit",
+        "filePath": "C:\\Users\\engin\\Desktop\\UnRar\\fsweb-s15g3-node-testing-project-1\\index.test.js",
+        "retries": 0,
+        "flaky": false,
+        "suite": "C:\\Users\\engin\\Desktop\\UnRar\\fsweb-s15g3-node-testing-project-1\\index.test.js > [Görev 3] enBuyukTamsayiyiBul"
+      },
+      {
+        "name": "[Görev 4] Sayici [6] sayici.asagiSay ilk çağırılışında başlangıç sayısını döndürüyor",
+        "duration": 1,
+        "status": "passed",
+        "rawStatus": "passed",
+        "type": "unit",
+        "filePath": "C:\\Users\\engin\\Desktop\\UnRar\\fsweb-s15g3-node-testing-project-1\\index.test.js",
+        "retries": 0,
+        "flaky": false,
+        "suite": "C:\\Users\\engin\\Desktop\\UnRar\\fsweb-s15g3-node-testing-project-1\\index.test.js > [Görev 4] Sayici"
+      },
+      {
+        "name": "[Görev 4] Sayici [7] sayici.asagiSay ikinci çağırılışında başlangıç eksi 1 döndürüyor",
+        "duration": 1,
+        "status": "passed",
+        "rawStatus": "passed",
+        "type": "unit",
+        "filePath": "C:\\Users\\engin\\Desktop\\UnRar\\fsweb-s15g3-node-testing-project-1\\index.test.js",
+        "retries": 0,
+        "flaky": false,
+        "suite": "C:\\Users\\engin\\Desktop\\UnRar\\fsweb-s15g3-node-testing-project-1\\index.test.js > [Görev 4] Sayici"
+      },
+      {
+        "name": "[Görev 4] Sayici [8] sayıcı sonunda sıfıra ulaşır ama daha aşağı saymaz",
+        "duration": 1,
+        "status": "passed",
+        "rawStatus": "passed",
+        "type": "unit",
+        "filePath": "C:\\Users\\engin\\Desktop\\UnRar\\fsweb-s15g3-node-testing-project-1\\index.test.js",
+        "retries": 0,
+        "flaky": false,
+        "suite": "C:\\Users\\engin\\Desktop\\UnRar\\fsweb-s15g3-node-testing-project-1\\index.test.js > [Görev 4] Sayici"
+      },
+      {
+        "name": "[Görev 5] Mevsimler [9] ilk çağrıda yaz döndürüyor",
+        "duration": 1,
+        "status": "passed",
+        "rawStatus": "passed",
+        "type": "unit",
+        "filePath": "C:\\Users\\engin\\Desktop\\UnRar\\fsweb-s15g3-node-testing-project-1\\index.test.js",
+        "retries": 0,
+        "flaky": false,
+        "suite": "C:\\Users\\engin\\Desktop\\UnRar\\fsweb-s15g3-node-testing-project-1\\index.test.js > [Görev 5] Mevsimler"
+      },
+      {
+        "name": "[Görev 5] Mevsimler [10] ikinci çağrıda sonbahar döndürüyor",
+        "duration": 1,
+        "status": "passed",
+        "rawStatus": "passed",
+        "type": "unit",
+        "filePath": "C:\\Users\\engin\\Desktop\\UnRar\\fsweb-s15g3-node-testing-project-1\\index.test.js",
+        "retries": 0,
+        "flaky": false,
+        "suite": "C:\\Users\\engin\\Desktop\\UnRar\\fsweb-s15g3-node-testing-project-1\\index.test.js > [Görev 5] Mevsimler"
+      },
+      {
+        "name": "[Görev 5] Mevsimler [11] üçüncü çağrıda kış döndürüyor",
+        "duration": 1,
+        "status": "passed",
+        "rawStatus": "passed",
+        "type": "unit",
+        "filePath": "C:\\Users\\engin\\Desktop\\UnRar\\fsweb-s15g3-node-testing-project-1\\index.test.js",
+        "retries": 0,
+        "flaky": false,
+        "suite": "C:\\Users\\engin\\Desktop\\UnRar\\fsweb-s15g3-node-testing-project-1\\index.test.js > [Görev 5] Mevsimler"
+      },
+      {
+        "name": "[Görev 5] Mevsimler [12] dördüncü çağrıda ilkbahar döndürüyor",
+        "duration": 1,
+        "status": "passed",
+        "rawStatus": "passed",
+        "type": "unit",
+        "filePath": "C:\\Users\\engin\\Desktop\\UnRar\\fsweb-s15g3-node-testing-project-1\\index.test.js",
+        "retries": 0,
+        "flaky": false,
+        "suite": "C:\\Users\\engin\\Desktop\\UnRar\\fsweb-s15g3-node-testing-project-1\\index.test.js > [Görev 5] Mevsimler"
+      },
+      {
+        "name": "[Görev 5] Mevsimler [13] beşinci çağrıda yeniden yaz döndürüyor",
+        "duration": 1,
+        "status": "passed",
+        "rawStatus": "passed",
+        "type": "unit",
+        "filePath": "C:\\Users\\engin\\Desktop\\UnRar\\fsweb-s15g3-node-testing-project-1\\index.test.js",
+        "retries": 0,
+        "flaky": false,
+        "suite": "C:\\Users\\engin\\Desktop\\UnRar\\fsweb-s15g3-node-testing-project-1\\index.test.js > [Görev 5] Mevsimler"
+      },
+      {
+        "name": "[Görev 5] Mevsimler [14] kırkıncı çağrıda ilkbahar döndürüyor",
+        "duration": 1,
+        "status": "passed",
+        "rawStatus": "passed",
+        "type": "unit",
+        "filePath": "C:\\Users\\engin\\Desktop\\UnRar\\fsweb-s15g3-node-testing-project-1\\index.test.js",
+        "retries": 0,
+        "flaky": false,
+        "suite": "C:\\Users\\engin\\Desktop\\UnRar\\fsweb-s15g3-node-testing-project-1\\index.test.js > [Görev 5] Mevsimler"
+      },
+      {
+        "name": "[Görev 6] Araba [15] arabayı sürünce güncellenmiş odometer döndürüyor",
+        "duration": 0,
+        "status": "passed",
+        "rawStatus": "passed",
+        "type": "unit",
+        "filePath": "C:\\Users\\engin\\Desktop\\UnRar\\fsweb-s15g3-node-testing-project-1\\index.test.js",
+        "retries": 0,
+        "flaky": false,
+        "suite": "C:\\Users\\engin\\Desktop\\UnRar\\fsweb-s15g3-node-testing-project-1\\index.test.js > [Görev 6] Araba"
+      },
+      {
+        "name": "[Görev 6] Araba [16] arabayı sürmek benzin tüketiyor",
+        "duration": 1,
+        "status": "passed",
+        "rawStatus": "passed",
+        "type": "unit",
+        "filePath": "C:\\Users\\engin\\Desktop\\UnRar\\fsweb-s15g3-node-testing-project-1\\index.test.js",
+        "retries": 0,
+        "flaky": false,
+        "suite": "C:\\Users\\engin\\Desktop\\UnRar\\fsweb-s15g3-node-testing-project-1\\index.test.js > [Görev 6] Araba"
+      },
+      {
+        "name": "[Görev 6] Araba [17] benzinalmak arabayı sürmeye izin veriyor",
+        "duration": 0,
+        "status": "passed",
+        "rawStatus": "passed",
+        "type": "unit",
+        "filePath": "C:\\Users\\engin\\Desktop\\UnRar\\fsweb-s15g3-node-testing-project-1\\index.test.js",
+        "retries": 0,
+        "flaky": false,
+        "suite": "C:\\Users\\engin\\Desktop\\UnRar\\fsweb-s15g3-node-testing-project-1\\index.test.js > [Görev 6] Araba"
+      },
+      {
+        "name": "[Görev 6] Araba [18] dolu depoya benzin alma etki etmiyor",
+        "duration": 0,
+        "status": "passed",
+        "rawStatus": "passed",
+        "type": "unit",
+        "filePath": "C:\\Users\\engin\\Desktop\\UnRar\\fsweb-s15g3-node-testing-project-1\\index.test.js",
+        "retries": 0,
+        "flaky": false,
+        "suite": "C:\\Users\\engin\\Desktop\\UnRar\\fsweb-s15g3-node-testing-project-1\\index.test.js > [Görev 6] Araba"
+      },
+      {
+        "name": "[Görev 7] asenkronCiftSayi çift sayı için true döndürüyor",
+        "duration": 0,
+        "status": "passed",
+        "rawStatus": "passed",
+        "type": "unit",
+        "filePath": "C:\\Users\\engin\\Desktop\\UnRar\\fsweb-s15g3-node-testing-project-1\\index.test.js",
+        "retries": 0,
+        "flaky": false,
+        "suite": "C:\\Users\\engin\\Desktop\\UnRar\\fsweb-s15g3-node-testing-project-1\\index.test.js > [Görev 7] asenkronCiftSayi"
+      },
+      {
+        "name": "[Görev 7] asenkronCiftSayi tek sayı için false döndürüyor",
+        "duration": 1,
+        "status": "passed",
+        "rawStatus": "passed",
+        "type": "unit",
+        "filePath": "C:\\Users\\engin\\Desktop\\UnRar\\fsweb-s15g3-node-testing-project-1\\index.test.js",
+        "retries": 0,
+        "flaky": false,
+        "suite": "C:\\Users\\engin\\Desktop\\UnRar\\fsweb-s15g3-node-testing-project-1\\index.test.js > [Görev 7] asenkronCiftSayi"
+      }
+    ]
+  }
+}
